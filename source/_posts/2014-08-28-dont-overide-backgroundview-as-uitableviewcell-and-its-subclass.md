@@ -3,7 +3,7 @@ layout: post
 title: "Don't override 'backgroundView' as UITableViewCell and it's subclass"
 date: "2014-08-28 17:05:46 +0800"
 comments: true
-categories: null
+categories: iOS, UITableView
 published: true
 ---
 
